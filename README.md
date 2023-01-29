@@ -1,5 +1,6 @@
 # Random maze
-Python program, that generates random maze (as list of lists) with solution and gives hints what can be changed to make maze more interesting
+Python program, that generates random maze (as list of lists) with solution and gives hints what can be changed to make maze more interesting. 
+Required libraries: pygad, turtle, numpy, random.
 
 # Main steps
 1. Generating random maze that has only one path from start to end
