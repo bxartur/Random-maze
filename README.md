@@ -20,4 +20,4 @@ This example of maze made by this program is obviously one of many possibilites
 Hints given by GA to improve current maze:
 1. Make the solution path longer
 2. Shorten the longest horizontal wall
-3. Reduce total number of 6-square (or more) walls
+3. Reduce total number of at least 6-square walls
