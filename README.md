@@ -9,9 +9,12 @@ Python program, that generates random maze with solution and gives hints what ca
 5. Analysis of genetic algorithms work
 
 # Example
-![maze-example](https://user-images.githubusercontent.com/123515299/215359005-2b65964f-67c4-45e2-9932-5ad1778b1dd5.png)
+This example of maze made by this program is obviously one of many possibilites
 
+![maze-example](https://user-images.githubusercontent.com/123515299/215359005-2b65964f-67c4-45e2-9932-5ad1778b1dd5.png)
+#
 ![ga-example](https://user-images.githubusercontent.com/123515299/215359043-a26357f6-bad1-4950-be54-b0227b758f58.png)
+
 Hints given by GA to improve current maze:
 1. Make the solution path longer
 2. Shorten the longest horizontal wall
