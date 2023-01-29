@@ -10,11 +10,11 @@ Required libraries to run this project: pygad, turtle, numpy, random.
 4. Graphical presentation of maze with solution path
 5. Analysis of genetic algorithms work
 
-# Maze example
+# Example of maze
 This example of maze made by this program is obviously one of many possibilites
 
 ![maze-example](https://user-images.githubusercontent.com/123515299/215359005-2b65964f-67c4-45e2-9932-5ad1778b1dd5.png)
-# Genetic algorithm output example
+# Example of genetic algorithm output
 ![ga-example](https://user-images.githubusercontent.com/123515299/215359043-a26357f6-bad1-4950-be54-b0227b758f58.png)
 
 Hints given by GA to improve current maze:
