@@ -1,5 +1,5 @@
 # Random maze
-Python program, that generates random maze with solution and gives hints what can be changed to make maze more interesting
+Python program, that generates random maze (as list of lists) with solution and gives hints what can be changed to make maze more interesting
 
 # Main steps
 1. Generating random maze that has only 1 path from start to end
