@@ -5,7 +5,7 @@ Required libraries to run this project: pygad, turtle, numpy, random.
 
 # Main steps
 1. Generating random maze that has only one path from start to end
-2. Using maze solving function to show path from start to end in current maze and pointing it on maze
+2. Using maze solving function to get path from start to end in current maze
 3. Implementing genetic algorithm with chosen parameters of current maze
 4. Graphical presentation of maze with solution path (using turtle library)
 5. Analysis of genetic algorithms work
